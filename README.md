@@ -1,2 +1,2 @@
 # Code Editor
-Live Demo: codeedit.1mb.site
+> Please give feedback and issues at https://crofton.canny.io/os-code-editor
