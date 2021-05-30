@@ -2,6 +2,10 @@
 > Please give feedback and issues at https://crofton.canny.io/codeeditor
 ***For our features/changelog please go to https://crofton.canny.io/codeeditor***
 
+## Latest Release Update:
+We have used part of Firebase's FirePad Code to add collaboration.
+
+
 ## Supported Versions
 
 Below are the supported versions for the Code Editor
