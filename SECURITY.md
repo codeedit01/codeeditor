@@ -1,3 +1,4 @@
+[![DeepScan grade](https://deepscan.io/api/teams/14294/projects/17402/branches/397915/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=14294&pid=17402&bid=397915)
 # Security Policy
 
 ## Supported Versions
