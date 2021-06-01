@@ -1,0 +1,100 @@
+body {font-family: Arial;
+  font-size: 20px; /* Increased text to enable scrolling */}
+
+input[type=text] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #FF4A75;
+    text-align: center;
+    font-family: 'DM Sans', 'SF UI Display Medium', 'Arial';
+    font-size: 20px;
+    color: #283D7B;
+  }
+  .button {
+  background-color: #0066FF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'DM Sans', 'SF UI Display Medium', 'Arial';
+}
+
+
+
+
+.btnactor {
+  poistion:fixed;
+  right:0;
+   padding: 0.4rem;
+  width: 1px;
+  background:transparent;
+  color: transparent;
+  font-size: 1rem;
+  outline:none;
+  border: none;
+  cursor:pointer;
+   height:90vh;
+}
+
+
+
+.btn {
+  poistion:fixed;
+  right:0;
+  font-size: 3000000px;
+  font-family: 'DM Sans', 'SF UI Display Medium', 'Arial';
+   padding: 0.4rem;
+  width: 4rem;
+  background:#0066FF;
+  color: white;
+  font-size: 1rem;
+  outline:none;
+  border: none;
+  cursor:pointer;
+   height:90vh;
+   border-radius: 10px;
+}
+.btn:hover{
+   color:white;
+   background: Dark grey;
+}
+
+
+
+.main-editor {
+  display: flex;
+  width: 100%;
+}
+
+.first {
+  border-radius: 10px;
+  background-color: #0D0D0D;
+  color: white;
+  width: 50%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  outline: none;
+  border: #283D7B;
+  padding: 1rem;
+
+
+}
+
+.second {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  width: 50%;
+  overflow-y: auto;
+ 
+  right: 0;
+  box-shadow: 0 1px 1px rgb(22, 22, 22);
+  border: #283D7B;
+}
