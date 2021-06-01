@@ -1,5 +1,4 @@
-body {font-family: Arial;
-  font-size: 20px; /* Increased text to enable scrolling */}
+body {font-family: Arial; font-size: 20px; /* Increased text to enable scrolling */}
 
 input[type=text] {
     width: 30%;
@@ -13,7 +12,7 @@ input[type=text] {
     font-size: 20px;
     color: #283D7B;
   }
-  .button {
+.button {
   background-color: #0066FF;
   border: none;
   color: white;
@@ -26,14 +25,10 @@ input[type=text] {
   cursor: pointer;
   font-family: 'DM Sans', 'SF UI Display Medium', 'Arial';
 }
-
-
-
-
 .btnactor {
   poistion:fixed;
   right:0;
-   padding: 0.4rem;
+  padding: 0.4rem;
   width: 1px;
   background:transparent;
   color: transparent;
@@ -41,7 +36,7 @@ input[type=text] {
   outline:none;
   border: none;
   cursor:pointer;
-   height:90vh;
+  height:90vh;
 }
 
 
