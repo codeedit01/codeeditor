@@ -1,7 +1,8 @@
 # Code Editor
 > Please give feedback and issues at https://crofton.canny.io/codeeditor
 ***For our features/changelog please go to https://crofton.canny.io/codeeditor***
-[![DeepScan grade](https://deepscan.io/api/teams/14294/projects/17401/branches/397913/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=14294&pid=17401&bid=397913)
+
+[![DeepScan grade](https://deepscan.io/api/teams/14294/projects/17402/branches/397915/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=14294&pid=17402&bid=397915)
 
 ## Latest Release Update:
 We have used part of Firebase's FirePad Code to add collaboration.
